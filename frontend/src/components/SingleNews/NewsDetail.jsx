@@ -1,7 +1,5 @@
 /* eslint-disable no-unused-vars */
 import React, { useEffect, useState } from "react";
-import news1 from "../../assets/NewsRoom/News1.png";
-import news2 from "../../assets/NewsRoom/News2.png";
 import NewsDetail_bg from "../../assets/NewsRoom/NewsDetail_bg.webp";
 import '../../../public/styles/slider.css'
 import { useParams } from "react-router-dom";
